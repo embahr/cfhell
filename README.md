@@ -12,6 +12,16 @@
 
 1.  **Install Node.js**
 
+    ```shell
+    # run the code below to install the gatsby command line tools globally on your machine
+
+    npm install -g gatsby-cli
+    ```
+
+  #### Windows
+  
+    Download and install the latest Node.js version from [the official Node.js website.](https://nodejs.org/en/)
+
 
   #### Linux
 
