@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Bloodbowl 2" src="https://github.com/embahr/cfhell/blob/develop/src/images/bb2.jpg" width="320" />
+    <img alt="Bloodbowl 2" src="https://github.com/embahr/cfhell/blob/develop/src/images/bb2.jpg" width="540" />
 </p>
 <h1 align="center">
   CFHell Bloodbowl 2 League Stats Page
@@ -12,11 +12,11 @@
 
 1.  **Install Node.js**
 
-  Windows
+  **Windows**
 
   Download and install the latest Node.js version from [the official Node.js website.](https://nodejs.org/en/)
 
-  Linux
+  **Linux**
 
   ```shell
   # Ubuntu/Debian/apt based distros - install curl before this step
@@ -46,44 +46,6 @@
   node --version
   npm --version 
   ```
-  
-
-  **Windows**
-  
-    Download and install the latest Node.js version from [the official Node.js website.](https://nodejs.org/en/)
-
-
-  **Linux**
-
-
-    ```shell
-    # Ubuntu/Debian/apt based distros - install curl before this step
-    # Fedora/RedHat/dnf based distros - curl comes pre-installed, continue with the below
-
-    curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.1/install.sh | bash
-    ```
-
-    ```shell
-    # confirm Node Version Manager (nvm) has been installed
-
-    nvm --version
-    ```
-
-    ```shell
-    # install nodejs
-
-    nvm install 14
-    nvm use 14
-
-    # alternatively, you can use "nvm install --lts" to install the latest long term support version
-    ```
-
-    ```shell
-    # confirm install was successful
-
-    node --version
-    npm --version 
-    ```
 
 2.  **Install Git**
 
