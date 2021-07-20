@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Bloodbowl 2" src="https://github.com/embahr/cfhell/blob/main/src/images/bb2.jpg" width="120" />
+    <img alt="Bloodbowl 2" src="https://github.com/embahr/cfhell/blob/develop/src/images/bb2.jpg" width="120" />
 </p>
 <h1 align="center">
   CFHell Bloodbowl 2 League Stats Page
@@ -7,17 +7,17 @@
 
 ## 🚀 Quick start
 
-### The project runs on Gatsby.js v3, Node.js v14 and up. Some dependencies and tools need to be installed first.
+#### The project runs on Gatsby.js v3, Node.js v14 and up. Some dependencies and tools need to be installed first.
 
 
 1.  **Install Node.js**
 
-  ### Windows
-
+  #### Windows
+  
     Download and install the latest Node.js version from [the official Node.js website.](https://nodejs.org/en/)
 
 
-  ### Linux
+  #### Linux
 
 
     ```shell
@@ -54,12 +54,6 @@
     - [Windows](https://www.atlassian.com/git/tutorials/install-git#windows)
     - [Linux](https://www.atlassian.com/git/tutorials/install-git#linux)
 
-    Navigate into your new site’s directory and start it up.
-
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
 3. **Install Gatsby-CLI**
 
     ```shell
@@ -85,7 +79,7 @@
     ```
 4. **Almost there!**
 
-    ### Navigate to your working directory and clone the repository
+    #### Navigate to your working directory and clone the repository
 
     ```shell
     # navigate
@@ -95,7 +89,7 @@
     git clone https://github.com/embahr/cfhell.git
     ```
 
-    ### Open the project directory, then install dependencies
+    #### Open the project directory, then install dependencies
 
     ```shell
     #install dependencies from package.json
@@ -103,7 +97,7 @@
     npm install
     ```
 
-    ### Start it up!
+    #### Start it up!
 
     ```shell
     # run the gatsby-cli command (gatsby develop) OR the npm script in package.json (npm run develop)
