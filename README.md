@@ -12,15 +12,11 @@
 
 1.  **Install Node.js**
 
+  Windows
+
   Download and install the latest Node.js version from [the official Node.js website.](https://nodejs.org/en/)
 
-  **Windows**
-  
-    Download and install the latest Node.js version from [the official Node.js website.](https://nodejs.org/en/)
-
-
-  **Linux**
-
+  Linux
 
     ```shell
     # Ubuntu/Debian/apt based distros - install curl before this step
@@ -50,6 +46,17 @@
     node --version
     npm --version 
     ```
+
+
+  **Windows**
+  
+    Download and install the latest Node.js version from [the official Node.js website.](https://nodejs.org/en/)
+
+
+  **Linux**
+
+
+
 
 2.  **Install Git**
 
