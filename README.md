@@ -24,6 +24,28 @@
 
   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.1/install.sh | bash
   ```
+
+  ```shell
+  # confirm Node Version Manager (nvm) has been installed
+
+  nvm --version
+  ```
+
+  ```shell
+  # install nodejs
+
+  nvm install 14
+  nvm use 14
+
+  # alternatively, you can use "nvm install --lts" to install the latest long term support version
+  ```
+
+  ```shell
+  # confirm install was successful
+
+  node --version
+  npm --version 
+  ```
   
 
   **Windows**
