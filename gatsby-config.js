@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://www.yourdomain.tld",
-    title: "CFHell",
+    siteUrl: "https://cfhell.thepit.pw",
+    title: "CFHell League Stats",
   },
   plugins: [
     "gatsby-plugin-styled-components",
