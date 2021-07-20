@@ -18,6 +18,22 @@
 
   Linux
 
+  ```shell
+  # Ubuntu/Debian/apt based distros - install curl before this step
+  # Fedora/RedHat/dnf based distros - curl comes pre-installed, continue with the below
+
+  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.1/install.sh | bash
+  ```
+  
+
+  **Windows**
+  
+    Download and install the latest Node.js version from [the official Node.js website.](https://nodejs.org/en/)
+
+
+  **Linux**
+
+
     ```shell
     # Ubuntu/Debian/apt based distros - install curl before this step
     # Fedora/RedHat/dnf based distros - curl comes pre-installed, continue with the below
@@ -46,17 +62,6 @@
     node --version
     npm --version 
     ```
-
-
-  **Windows**
-  
-    Download and install the latest Node.js version from [the official Node.js website.](https://nodejs.org/en/)
-
-
-  **Linux**
-
-
-
 
 2.  **Install Git**
 
