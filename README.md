@@ -12,6 +12,8 @@
 
 1.  **Install Node.js**
 
+  Download and install the latest Node.js version from [the official Node.js website.](https://nodejs.org/en/)
+
   **Windows**
   
     Download and install the latest Node.js version from [the official Node.js website.](https://nodejs.org/en/)
