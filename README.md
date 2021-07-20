@@ -12,40 +12,40 @@
 
 1.  **Install Node.js**
 
-  **Windows**
+    **Windows**
 
-  Download and install the latest Node.js version from [the official Node.js website.](https://nodejs.org/en/)
+    Download and install the latest Node.js version from [the official Node.js website.](https://nodejs.org/en/)
 
-  **Linux**
+    **Linux**
 
-  ```shell
-  # Ubuntu/Debian/apt based distros - install curl before this step
-  # Fedora/RedHat/dnf based distros - curl comes pre-installed, continue with the below
+    ```shell
+    # Ubuntu/Debian/apt based distros - install curl before this step
+    # Fedora/RedHat/dnf based distros - curl comes pre-installed, continue with the below
 
-  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.1/install.sh | bash
-  ```
+    curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.1/install.sh | bash
+    ```
 
-  ```shell
-  # confirm Node Version Manager (nvm) has been installed
+    ```shell
+    # confirm Node Version Manager (nvm) has been installed
 
-  nvm --version
-  ```
+    nvm --version
+    ```
 
-  ```shell
-  # install nodejs
+    ```shell
+    # install nodejs
 
-  nvm install 14
-  nvm use 14
+    nvm install 14
+    nvm use 14
 
-  # alternatively, you can use "nvm install --lts" to install the latest long term support version
-  ```
+    # alternatively, you can use "nvm install --lts" to install the latest long term support version
+    ```
 
-  ```shell
-  # confirm install was successful
+    ```shell
+    # confirm install was successful
 
-  node --version
-  npm --version 
-  ```
+    node --version
+    npm --version 
+    ```
 
 2.  **Install Git**
 
