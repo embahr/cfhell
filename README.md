@@ -5,10 +5,13 @@
   CFHell Bloodbowl 2 League Stats Page
 </h1>
 
+## Live Version
+
+    A live version can be viewed [here](https://cfhell.netlify.app).
+
 ## 🚀 Quick start
 
 #### The project runs on Gatsby.js v3, Node.js v14 and up. Some dependencies and tools need to be installed first.
-
 
 1.  **Install Node.js**
 
@@ -44,7 +47,7 @@
     # confirm install was successful
 
     node --version
-    npm --version 
+    npm --version
     ```
 
 2.  **Install Git**
@@ -52,7 +55,7 @@
     - [Windows](https://www.atlassian.com/git/tutorials/install-git#windows)
     - [Linux](https://www.atlassian.com/git/tutorials/install-git#linux)
 
-3. **Install Gatsby-CLI**
+3.  **Install Gatsby-CLI**
 
     ```shell
     # run the code below to install the gatsby command line tools globally on your machine
@@ -75,7 +78,8 @@
     # view available commands
     gatsby --help
     ```
-4. **Almost there!**
+
+4.  **Almost there!**
 
     #### Navigate to your working directory and clone the repository
 
